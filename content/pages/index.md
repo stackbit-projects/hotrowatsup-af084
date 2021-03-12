@@ -4,10 +4,13 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: WATSUP CÙNG BẠN SỐNG KHOẺ HƠN
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Bạn đang thắc mắc khi mua hàng?  Bạn chưa biết phải chọn sản phẩm phù hợp?
+
+
+      Dành chút thời gian lướt qua những câu hỏi thường gặp tại Watsup nhé. Nếu
+      vẫn còn thắc mắc thì đừng ngần ngại hãy gọi điện thoại hoặc gửi tin nhắn,
+      đội ngũ tư vấn tại Watsup luôn sẵn sàng giúp đỡ bạn.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
