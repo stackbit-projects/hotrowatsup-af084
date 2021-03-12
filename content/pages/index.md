@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 'Hỗ trợ Khách hàng '
 sections:
   - section_id: hero
     type: section_hero
