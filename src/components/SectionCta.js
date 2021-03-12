@@ -44,7 +44,7 @@ export default class SectionCta extends React.Component {
                               {(_.get(action, 'has_subnav', null) && _.get(action, 'subnav_links', null)) && (<React.Fragment>
                                 <button className="submenu-toggle"><span className="icon-angle-right" aria-hidden="true" /><span className="screen-reader-text">Sub-menu</span></button>
                                 <Submenu {...this.props} submenu={_.get(action, 'subnav_links', null)} menu_class={'submenu'} page={this.props.page} />
-                              </React.Fragment>)}
+                            
                             </li>
                           )
                       })}
