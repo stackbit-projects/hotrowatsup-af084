@@ -15,7 +15,7 @@ export default class SectionHero extends React.Component {
               <div className="inner-sm">
                 {_.get(section, 'title', null) && (
                 <div className="block-header">
-                  <h1 className="block-title">{_.get(section, 'title', null)}</h1>
+                  <h3 className="block-title">{_.get(section, 'title', null)}</h1>
                 </div>
                 )}
                 {_.get(section, 'content', null) && (
