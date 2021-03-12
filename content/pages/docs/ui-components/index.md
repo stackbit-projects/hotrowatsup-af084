@@ -1,8 +1,6 @@
 ---
 title: 'Đổi trả, hoàn tiền'
-excerpt: >-
-  To make it easy to write documentation in plain Markdown, most UI components
-  are styled using Markdown elements with few additional CSS classes.
+excerpt: 'Hướng dẫn đổi trả, hoàn tiền và những câu hỏi thường gặp'
 seo:
   title: UI Components
   description: This is the UI components page
