@@ -59,7 +59,7 @@
   a {
     &:not(.button) {
       color: inherit;
-      display: inline-block;
+      display: block;
       text-decoration: none;
 
       &:hover {
