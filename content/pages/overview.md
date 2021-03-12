@@ -5,7 +5,11 @@ sections:
     type: section_hero
     title: HỖ TRỢ KHÁCH HÀNG
     image: images/5.jpg
-    content: An optional subtitle
+    content: >
+      Bạn đang thắc mắc khi mua hàng?  Bạn chưa biết phải chọn sản phẩm phù
+      hợp?Dành chút thời gian lướt qua những câu hỏi thường gặp tại Watsup nhé.
+      Nếu vẫn còn thắc mắc thì đừng ngần ngại hãy gọi điện thoại hoặc gửi tin
+      nhắn, đội ngũ tư vấn tại Watsup luôn sẵn sàng giúp đỡ bạn.
   - section_id: docs-overview
     type: section_docs
     col_number: three
