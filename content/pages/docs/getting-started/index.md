@@ -1,6 +1,6 @@
 ---
 title: "\bĐặt hàng"
-excerpt: In this section you'll find basic information about Libris and how to use it.
+excerpt: Hướng dẫn đặt hàng và những câu hỏi thường gặp
 seo:
   title: Getting Started
   description: This is the getting started page
