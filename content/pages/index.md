@@ -3,7 +3,7 @@ title: 'Watsup - Hỗ trợ khách hàng '
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: WATSUP CÙNG BẠN SỐNG KHOẺ HƠN
     image: images/5.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
