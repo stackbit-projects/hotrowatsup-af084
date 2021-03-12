@@ -1,23 +1,6 @@
 ---
 title: 'Watsup - Hỗ trợ khách hàng '
 sections:
-  - section_id: hero
-    type: section_hero
-    title: WATSUP CÙNG BẠN SỐNG KHOẺ HƠN
-    content: >
-      Bạn đang thắc mắc khi mua hàng?  Bạn chưa biết phải chọn sản phẩm phù hợp?
-
-
-      Dành chút thời gian lướt qua những câu hỏi thường gặp tại Watsup nhé. Nếu
-      vẫn còn thắc mắc thì đừng ngần ngại hãy gọi điện thoại hoặc gửi tin nhắn,
-      đội ngũ tư vấn tại Watsup luôn sẵn sàng giúp đỡ bạn.
-    actions:
-      - label: Get Started
-        url: /docs
-        style: primary
-      - label: Get Started
-        url: /docs
-        style: primary
   - section_id: features
     type: section_grid
     col_number: three
