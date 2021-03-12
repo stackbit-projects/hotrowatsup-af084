@@ -48,7 +48,7 @@
 
   a {
     &:not(.button) {
-      display: block;
+      display: inline-block;
       font-size: 0.9375em;
       line-height: 1.5;
     }
@@ -59,7 +59,7 @@
   a {
     &:not(.button) {
       color: inherit;
-      display: block;
+      display: inline-block;
       text-decoration: none;
 
       &:hover {
