@@ -1,5 +1,5 @@
 ---
-title: Manage Content
+title: Tài khoản
 excerpt: >-
   In this section you'll learn how to add syntax highlighting, examples,
   callouts and much more.
