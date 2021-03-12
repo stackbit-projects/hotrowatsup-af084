@@ -1,8 +1,6 @@
 ---
 title: Về WATSUP
-excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+excerpt: 'Nguồn gốc sản phẩm, những tiêu chuẩn về sản phẩm và câu chuyện của Watsup'
 seo:
   title: About
   description: This is the about page
