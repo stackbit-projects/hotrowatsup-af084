@@ -4,7 +4,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: WATSUP CÙNG BẠN SỐNG KHOẺ HƠN
-    image: images/5.jpg
     content: >
       Bạn đang thắc mắc khi mua hàng?  Bạn chưa biết phải chọn sản phẩm phù hợp?
 
