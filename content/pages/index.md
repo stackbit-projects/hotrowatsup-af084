@@ -15,7 +15,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
-        - label: Get Started
+    - label: Get Started
         url: /docs
         style: primary
   - section_id: features
