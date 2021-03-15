@@ -5,6 +5,10 @@ seo:
   title: About
   description: This is the about page
   extra:
+  - name: 'og:image'
+      value: images/5.jpg
+      keyName: property
+      relativeUrl: true
     - name: 'og:type'
       value: website
       keyName: property
