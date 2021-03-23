@@ -25,7 +25,7 @@ layout: docs
 
 <hr>
 
-Bạn có thể đăng kí tài khoản Watsup bằng email cá nhân, qua tài khoản Google, hoặc Facebook. 
+Bạn có thể đăng kí tài khoản Watsup bằng email cá nhân, qua tài khoản Google, hoặc Facebook.
 
 ### HTML example
 
@@ -63,7 +63,7 @@ Copy the code and modify these blocks according to your needs.
   This block signifies a general note.
 </div>
 
-## Code blocks
+## **Đăng kí tài khoản với Watsup có lợi gì không? **
 
 <hr>
 
