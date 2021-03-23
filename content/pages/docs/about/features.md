@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để đăng ký tài khoản trên Watsup?
+title: Đăng ký tài khoản watsup có lợi gì không ?
 weight: 2
 seo:
   title: Features
