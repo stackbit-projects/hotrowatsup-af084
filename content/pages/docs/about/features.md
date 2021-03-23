@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Làm thế nào để đăng ký tài khoản trên Watsup?
 weight: 2
 seo:
   title: Features
