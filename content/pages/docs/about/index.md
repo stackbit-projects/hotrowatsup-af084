@@ -1,5 +1,5 @@
 ---
-title: Về WATSUP
+title: Tài khoản của tôi
 excerpt: 'Nguồn gốc sản phẩm, những tiêu chuẩn về sản phẩm và câu chuyện của Watsup'
 seo:
   title: About
