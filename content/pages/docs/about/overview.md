@@ -1,5 +1,4 @@
 ---
-title: Overview
 weight: 1
 seo:
   title: Overview
