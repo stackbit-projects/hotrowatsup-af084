@@ -63,23 +63,21 @@ Copy the code and modify these blocks according to your needs.
   This block signifies a general note.
 </div>
 
-
-
 ### Qua Facebook
 
 \<div class="important">
-  \<strong>Important:\</strong> 
-  This is an "Important" callout block of text. 
-  This block indicates a warning or caution.
-  Use it for an important message. 
+\<strong>Important:\</strong>
+This is an "Important" callout block of text.
+This block indicates a warning or caution.
+Use it for an important message.
 \</div>\<div class="note">
-  \<strong>Note:\</strong> 
-  This is an "Note" callout block of text. 
-  This block signifies a general note.
+
+
+\<strong>Note:\</strong>
+This is an "Note" callout block of text.
+This block signifies a general note.
 \</div>
 
-
-
-** Đăng ký tài khoản ngay bây giờ ?**
+**Đăng ký tài khoản ngay bây giờ ?**
 
 <a href="https://www.stackbit.com/" class="button"> Nhấn vào đây để đăng ký</a>
