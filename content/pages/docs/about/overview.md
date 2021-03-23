@@ -21,16 +21,11 @@ seo:
       value: This is the overview page
 layout: docs
 ---
-<div class="note">
-  <strong>Note:</strong> 
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
-</div>
-
 ## **Làm thế nào để đăng kí tài khoản trên Watsup?**
 
 <hr>
 
-There are two types of callouts available in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example bellow.
+Bạn có thể đăng kí tài khoản Watsup bằng email cá nhân, qua tài khoản Google, hoặc Facebook. 
 
 ### HTML example
 
